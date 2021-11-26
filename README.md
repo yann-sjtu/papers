@@ -1,2 +1,2 @@
 # papers
-papers, translations and nots
+papers, translations and notes
